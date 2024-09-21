@@ -1,0 +1,6 @@
+{"timestamp":778,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","experiment":"relay-integration-into-firefox-release-for-all-fxa-users","glean_timestamp":"1726942639649"}}
+{"timestamp":825,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","glean_timestamp":"1726942639695"}}
+{"timestamp":3978,"category":"nimbus_events","name":"exposure","extra":{"feature_id":"featureCallout","experiment":"recommend-media-extension-add-ons-part-2","glean_timestamp":"1726942642848","branch":"control"}}
+{"timestamp":29786,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"relay-integration-into-firefox-release-for-all-fxa-users","reason":"feature-conflict","glean_timestamp":"1726942668657"}}
+{"timestamp":29823,"category":"nimbus_events","name":"validation_failed","extra":{"glean_timestamp":"1726942668693","feature":"addAnImageInPDF","experiment":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature"}}
+{"timestamp":441528,"category":"nimbus_events","name":"exposure","extra":{"experiment":"embedded-import-spotlight","branch":"control","glean_timestamp":"1726943080399","feature_id":"spotlight"}}
