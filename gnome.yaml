@@ -1,0 +1,31 @@
+impl: http://github.com/blend-os/tracks/raw/main
+repo: https://pkg-repo.blendos.co
+track: default-gnome
+
+packages:
+    - micro
+    - obsidian
+    - dconf-editor
+    - gnome-tweaks
+    - steam
+    - refind
+    - vulkan-radeon
+    - networkmanager-openvpn
+    - power-profiles-daemon
+    - tela-circle-icon-theme-all
+    - telegram-desktop
+    - podman-compose
+    - xorg-xhost
+    - libcanberra
+aur-packages:
+    - parui
+    - yandex-disk
+    - extension-manager
+    - gdm-settings
+    - nautilus-admin-gtk4
+    - nautilus-launch
+    - nautilus-open-any-terminal
+    - actions-for-nautilus-git
+    - code-nautilus-git
+    - amdgpu_top
+    - visual-studio-code-bin
