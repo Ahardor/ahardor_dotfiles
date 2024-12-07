@@ -33,8 +33,6 @@ aur-packages:
     - "code-nautilus-git"
     - "amdgpu_top"
     - "visual-studio-code-bin"
-    - "wps-office"
-    - "ttf-wps-fonts"
 
 services:
     - "cups"
