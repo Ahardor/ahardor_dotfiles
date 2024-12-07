@@ -34,7 +34,7 @@ aur-packages:
     - "amdgpu_top"
     - "visual-studio-code-bin"
     - "wps-office"
-    - "ttf-wps-office"
+    - "ttf-wps-fonts"
 
 services:
     - "cups"
