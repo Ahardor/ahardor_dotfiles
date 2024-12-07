@@ -17,6 +17,7 @@ packages:
     - "podman-compose"
     - "xorg-xhost"
     - "libcanberra"
+    - "file-roller"
 
 aur-packages:
     - "parui"
@@ -30,6 +31,8 @@ aur-packages:
     - "code-nautilus-git"
     - "amdgpu_top"
     - "visual-studio-code-bin"
+    - "wps-office"
+    - "ttf-wps-office"
 
 services:
     - "cups"
