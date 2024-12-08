@@ -18,6 +18,8 @@ packages:
     - "xorg-xhost"
     - "libcanberra"
     - "file-roller"
+    - "go"
+    - "alacarte"
 
 aur-packages:
     - "parui"

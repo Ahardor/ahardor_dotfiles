@@ -20,6 +20,8 @@ packages:
     - "file-roller"
     - "kitty"
     - "hyprland"
+    - "go"
+    - "alacarte"
 
 aur-packages:
     - "parui"
